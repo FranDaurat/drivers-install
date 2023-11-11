@@ -1,4 +1,4 @@
-sudo apt udpate
+sudo apt update
 sudo apt upgrade
 sudo apt dist-upgrade -y
 sudo apt install realtek-rtl88xxau-dkms

@@ -7,4 +7,4 @@ git clone https://github.com/aircrack-ng/rtl8812au
 cd rtl8812au/
 make
 sudo make install 
-echo "solo falta reiniciar"
+echo -e "\n\n[*] Solo falta reiniciar\n\n"

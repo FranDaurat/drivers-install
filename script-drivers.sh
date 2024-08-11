@@ -49,5 +49,5 @@ update_upgrade
 repo
 wait
 
-echo -e "\n\n${greenColour}[+] Instalación terminada${endColour}\n"
+echo -e "\n\n${greenColour}[*] Instalación terminada${endColour}\n"
 tput cnorm
